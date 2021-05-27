@@ -1,0 +1,1401 @@
+{
+    "questions" : [
+        {
+            "question": "Which English team has launched a bid to be officially recognised as the oldest professional club in the world?",
+            "answers": [
+                "Stoke City",
+                "Nottingham Forest",
+                "Aston Villa",
+                "Crystal Palace"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Who is the only player to win the Champions League with three different clubs?",
+            "answers": [
+                "Samuel Eto'o",
+                "Didier Deschamps",
+                "Xabi Alonso",
+                "Clarens Seedorf"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "How many Ballon d’Or awards has Lionel Messi won?",
+            "answers": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Messi has spent his entire professional career at Barcelona, but what was his schoolboy team?",
+            "answers": [
+                "Newell's Old Boys",
+                "Boca Juniors",
+                "River Plate",
+                "Banfield"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which country has appeared in three World Cup finals, but never won the competition?",
+            "answers": [
+                "Uruguay",
+                "Netherlands",
+                "Switzerland",
+                "Croatia"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "In which World Cup did Diego Maradona score his infamous 'Hand of God' goal?",
+            "answers": [
+                "Spain 1982",
+                "Mexico 1986",
+                "Italy 1990",
+                "USA 1994"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the first ever World Cup in 1930?",
+            "answers": [
+                "Brazil",
+                "France",
+                "Italy",
+                "Uruguay"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "The record number of World Cup goals is 16, scored by who?",
+            "answers": [
+                "Pele",
+                "Ronaldo",
+                "Cristiano Ronaldo",
+                "Miroslav Close"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Cristiano Ronaldo is synonymous with the No.7, but what other number did he wear at Real Madrid?",
+            "answers": [
+                "5",
+                "9",
+                "10",
+                "11"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Who was the last Manchester United player to win the Ballon d’Or before Cristiano Ronaldo?",
+            "answers": [
+                "Eric Cantona",
+                "David Beckham",
+                "George Best",
+                "Ryan Giggs"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which British team has won the European Cup more times than its own domestic top league?",
+            "answers": [
+                "Nottingham Forest",
+                "Aston Villa",
+                "Leeds United",
+                "Everton"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which England footballer was famously never given a yellow card?",
+            "answers": [
+                "Kevin Keegan",
+                "Jamie Carragher",
+                "Kieron Dyer",
+                "Gary Lineker"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Three people have won the Champions League a record three times as manager. Bob Paisley, Carlo Ancelotti and ...?",
+            "answers": [
+                "Zinedine Zidane",
+                "Jose Mourinho",
+                "Ottmar Hitzfeld",
+                "Pep Guardiola"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which outfield player appeared in the Champions League final in three different decades?",
+            "answers": [
+                "Paolo Maldini",
+                "Didier Deschamps",
+                "Ryan Giggs",
+                "Marcel Desailly"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "After Juventus, AC Milan and Inter, which team has won the most Serie A titles?",
+            "answers": [
+                "Roma",
+                "Lazio",
+                "Genoa",
+                "Torino"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The Euro 2000 final between France and Italy was decided by Golden Goal. Which player scored the goal?",
+            "answers": [
+                "Patrick Vieira",
+                "Zinedine Zidane",
+                "David Trezeguet",
+                "Thiery Henry"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "In which season was the European Cup rebranded as the Champions League?",
+            "answers": [
+                "1990-91",
+                "1991-92",
+                "1992-93",
+                "1993-94"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which club has won the most Champions League titles after Real Madrid?",
+            "answers": [
+                "Bayern Munich",
+                "Barcelona",
+                "Liverpool",
+                "Milan"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country has won the most World Cups?",
+            "answers": [
+                "Germany",
+                "Italy",
+                "Argentina",
+                "Brazil"             
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which player scored the fastest hat-trick in the Premier League?",
+            "answers": [
+                "Sadio Mane",
+                "Mohamed Salah",
+                "Alan Shearer",
+                "Cun Aguero"              
+            ],
+            "correct": 1
+        },
+        {
+            "question": "With 260 goals, who is the Premier League's all-time top scorer?",
+            "answers": [
+                "Alan Shearer",
+                "Wayne Rooney",
+                "Andrew Cole",
+                "Michael Owen"             
+            ],
+            "correct": 1
+        },
+        {
+            "question": "With 365 goals, who is the Bundesliga's all-time top scorer?",
+            "answers": [
+                "Klaus Fischer",
+                "Jupp Heynckes",
+                "Gerd Müller",
+                "Claudio Pizarro"             
+            ],
+            "correct": 3
+        },
+        {
+            "question": "After Real Madrid and Barcelona which team has won the most La Liga titles?",
+            "answers": [
+                "Athletic Bilbao",
+                "Atletico Madrid",
+                "Valencia",
+                "Real Sociedad"               
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Manchester United famously wear red, but what colours did they wear before adopting red?",
+            "answers": [
+                "Black and white",
+                "Blue",
+                "Green",
+                "Green and gold"              
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which club is associated with 'Galacticos'?",
+            "answers": [
+                "Boca Juniors",
+                "River Plate",
+                "Real Madrid",
+                "Barcelona"            
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Only three German clubs have won the European Cup/Champions League. Bayern Munich, Borussia Dortmund and ...?",
+            "answers": [
+                "Schalke",
+                "Hamburg",
+                "Leverkusen",
+                "Herta Berlin"                
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Denmark notably won Euro 92, despite the fact that they did not initially qualify. Which team did they replace?",
+            "answers": [
+                "Croatia",
+                "Serbia",
+                "Yugoslavia",
+                "Ukraine"                
+            ],
+            "correct": 3 
+        },
+        {
+            "question": "With three titles each, which two national teams have won the most European Championships?",
+            "answers": [
+                "Germany & Spain",
+                "Germany & Italy",
+                "Italy & France",
+                "Italy & England"             
+            ],
+            "correct": 1
+        },
+        {
+            "question": "In which year was the first European Championship held?",
+            "answers": [
+                "1956",
+                "1960",
+                "1964",
+                "1968"                   
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which team was the first from the UK to win the European Cup?",
+            "answers": [
+                "Manchester United",
+                "Leeds",
+                "Celtic",
+                "Liverpool"                   
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Who is the Champions League's top goalscorer of all time?",
+            "answers": [
+                "Raul",
+                "Messi",
+                "Cristiano Ronaldo",
+                "Lewandowski"               
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which Portuguese team did Ronaldo play for before signing for Manchester United?",
+            "answers": [
+                "Porto",
+                "Benfica",
+                "Sporting Lisbon",
+                "Boavista"                  
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the first Premier League title (1992-93)?",
+            "answers": [
+                "Arsenal",
+                "Blackburn",
+                "Manchester United",
+                "Chelsea"                 
+            ],
+            "correct": 3
+        },
+        {
+            "question": "With 202 clean sheets, which goalkeeper has the best record in the Premier League?",
+            "answers": [
+                "Peter Shilton",
+                "David Seaman",
+                "David de Gea",
+                "Petr Cech"                   
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country won the World Cup in 1982?",
+            "answers": [
+                "Italy",
+                "Germany",
+                "Argentina",
+                "Brazil"               
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which country won the World Cup in 1986 in Mexico?",
+            "answers": [
+                "Italy",
+                "Germany",
+                "Brazil",
+                "Argentina"                  
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country won the World Cup in 1990 in Italy?",
+            "answers": [
+                "Italy",
+                "Germany",
+                "Brazil",
+                "Argentina"                     
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the World Cup in 1994?",
+            "answers": [
+                "Italy",
+                "Germany",
+                "France",
+                "Brazil"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country won the World Cup in 1998?",
+            "answers": [
+                "Brazil",
+                "Germany",
+                "France",
+                "Spain"                   
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which country won the World Cup in 2002?",
+            "answers": [
+                "England",
+                "Germany",
+                "France",
+                "Brazil"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country won the World Cup in 2006?",
+            "answers": [
+                "Italy",
+                "Spain",
+                "France",
+                "Brazil"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Three people have won the World Cup as a player and as a coach. Mario Zagallo, Didier Deschamps and...?",
+            "answers": [
+                "Johan Cruyff",
+                "Laurent Blanc",
+                "Franz Beckenbauer",
+                "Raymond Domenech"                 
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 1992-93?",
+            "answers": [
+                "Juventus",
+                "Marseille",
+                "Ajax",
+                "Milan"                   
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which team won the Champions League in 1994-95?",
+            "answers": [
+                "Juventus",
+                "Milan",
+                "Ajax",
+                "Barcelona"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 1996-97?",
+            "answers": [
+                "Juventus",
+                "Borussia Dortmund",
+                "Ajax",
+                "Real Madrid"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which team won the Champions League in 1997-98?",
+            "answers": [
+                "Juventus",
+                "Borussia Dortmund",
+                "Manchester United",
+                "Real Madrid"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team won the Champions League in 1998-99?",
+            "answers": [
+                "Manchester United",
+                "Bayern Munich",
+                "Juventus",
+                "Real Madrid"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team won the Champions League in 1999-2000?",
+            "answers": [
+                "Liverpool",
+                "Valencia",
+                "Bayern Munich",
+                "Real Madrid"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team won the Champions League in 2000-01?",
+            "answers": [
+                "Milan",
+                "Valencia",
+                "Bayern Munich",
+                "Real Madrid"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 2001-02?",
+            "answers": [
+                "Leverkusen",
+                "Milan",
+                "Bayern Munich",
+                "Real Madrid"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team won the Champions League in 2002-03?",
+            "answers": [
+                "Milan",
+                "Juventus",
+                "Real Madrid",
+                "Porto"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team won the Champions League in 2003-04?",
+            "answers": [
+                "Milan",
+                "Liverpool",
+                "Porto",
+                "Monaco"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 2005-06?",
+            "answers": [
+                "Liverpool",
+                "Milan",
+                "Barcelona",
+                "Bayern Munich"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 2007-08?",
+            "answers": [
+                "Chelsea",
+                "Manchester United",
+                "Barcelona",
+                "Inter"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which team won the Champions League in 2009-10?",
+            "answers": [
+                "Inter",
+                "Bayern Munich",
+                "Barcelona",
+                "Real Madrid"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team won the Champions League in 2011-12?",
+            "answers": [
+                "Real Madrid",
+                "Bayern Munich",
+                "Chelsea",
+                "Barcelona"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Champions League in 2012-13?",
+            "answers": [
+                "Manchester United",
+                "Chelsea",
+                "Bayern Munich",
+                "Barcelona"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the first Europa League in 2009-10?",
+            "answers": [
+                "Porto",
+                "Sevilla",
+                "Atletico Madrid",
+                "Benfica"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Europa League in 2016-17?",
+            "answers": [
+                "Chelsea",
+                "Sevilla",
+                "Atletico Madrid",
+                "Manchester United"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team won the Europa League in 2017-18?",
+            "answers": [
+                "Manchester United",
+                "Sevilla",
+                "Atletico Madrid",
+                "Marseille"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team won the Europa League in 2018-19?",
+            "answers": [
+                "Chelsea",
+                "Arsenal",
+                "Atletico Madrid",
+                "Sevilla"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Of the following, which club was the first to win the FA Cup?",
+            "answers": [
+                "Wanderers",
+                "Blackburn Rovers",
+                "Aston Villa",
+                "Oxford University"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which one of the following teams has not won the European Championship?",
+            "answers": [
+                "Denmark",
+                "Greece",
+                "England",
+                "Portugal"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which MLS franchise team does David Beckham own?",
+            "answers": [
+                "LA Galaxy",
+                "Atlanta United FC",
+                "D.C. United",
+                "Inter Miami"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Of the following, which club was the first to play in the final of the European Cup?",
+            "answers": [
+                "Leeds United",
+                "Panathinaikos",
+                "Saint-Etienne",
+                "Juventus"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Italian club was the first to play in the final of the European Cup?",
+            "answers": [
+                "Fiorentina",
+                "Milan",
+                "Inter",
+                "Juventus"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which german club was the first to play in the final of the European Cup?",
+            "answers": [
+                "Herta Berlin",
+                "Hamburger SV",
+                "Bayern Munich",
+                "Eintracht Frankfurt"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which french club was the first to play in the final of the European Cup?",
+            "answers": [
+                "Saint-Etienne",
+                "Reims",
+                "Marseille",
+                "Nantes"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the European Cup in 1988?",
+            "answers": [
+                "Netherlands",
+                "Germany",
+                "France",
+                "Soviet Union"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which country won the European Cup in 1992?",
+            "answers": [
+                "Denmark",
+                "Germany",
+                "Sweden",
+                "England"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which country won the European Cup in 1996 in England?",
+            "answers": [
+                "England",
+                "Germany",
+                "Czech Republic",
+                "France"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the European Cup in 2000?",
+            "answers": [
+                "Italy",
+                "France",
+                "Germany",
+                "Netherlands"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the European Cup in 2004?",
+            "answers": [
+                "Portugal",
+                "Greece",
+                "England",
+                "Spain"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which country won the European Cup in 2012?",
+            "answers": [
+                "Greece",
+                "Italy",
+                "Germany",
+                "Spain"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which country won the European Cup in 2016?",
+            "answers": [
+                "Spain",
+                "France",
+                "Portugal",
+                "Germany"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which country won the first ever European Cup in 1960?",
+            "answers": [
+                "Soviet Union",
+                "Yugoslavia",
+                "Spain",
+                "Czechoslovakia"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team has won the most FA Cup trophies?",
+            "answers": [
+                "Arsenal",
+                "Manchester United",
+                "Chelsea",
+                "Tottenham Hotspur"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which country do Orlando Pirates play in?",
+            "answers": [
+                "USA",
+                "South Africa",
+                "Australia",
+                "New Zealand"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Liverpool star also played for Southampton and Celtic?",
+            "answers": [
+                "Sadio Mane",
+                "Adam Lallana",
+                "Virgil van Dijk",
+                "Jordan Henderson"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "How many consecutive goals did Jamie Vardy scored in the 2015/16 season, setting up a new Premier League record?",
+            "answers": [
+                "9",
+                "11",
+                "13",
+                "14"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "At the 2014/2015 season, which player received the 'Player of the Season' award in Premier League?",
+            "answers": [
+                "Luis Suarez",
+                "Diego Costa",
+                "Frank Lampard",
+                "Eden Hazard"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "In which year did Arsene Wenger join Arsenal as manager?",
+            "answers": [
+                "1994",
+                "1996",
+                "1998",
+                "2000"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "In which year did Sir Alex Ferguson join Manchester United as manager?",
+            "answers": [
+                "1984",
+                "1986",
+                "1988",
+                "1990"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Brazil won the World Cup of 1970. Where did it take place?",
+            "answers": [
+                "England",
+                "Mexico",
+                "West Germany",
+                "Brazil"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Italy won the World Cup of 1982. Where did it take place?",
+            "answers": [
+                "Mexico",
+                "Argentina",
+                "Spain",
+                "Italy"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Argentina won the World Cup of 1986. Where did it take place?",
+            "answers": [
+                "Spain",
+                "Argentina",
+                "Italy",
+                "Mexico"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Germany won the World Cup of 1990. Where did it take place?",
+            "answers": [
+                "Germany",
+                "Mexico",
+                "Italy",
+                "USA"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Brazil won the World Cup of 1994. Where did it take place?",
+            "answers": [
+                "USA",
+                "Italy",
+                "Japan",
+                "France"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Italy won the World Cup of 2006. Where did it take place?",
+            "answers": [
+                "France",
+                "Germany",
+                "South Corea",
+                "South Africa"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Spain won the World Cup of 2010. Where did it take place?",
+            "answers": [
+                "Germany",
+                "Brazil",
+                "South Corea",
+                "South Africa"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Germany won the World Cup of 2014. Where did it take place?",
+            "answers": [
+                "Russia",
+                "USA",
+                "Brazil",
+                "South Africa"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "How many times have Brazil won the World Cup?",
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "How many times have Germany won the World Cup?",
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "How many times have Argentina won the World Cup?",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "How many times have Italy won the World Cup?",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "How many times have France won the World Cup?",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "How many times have Uruguay won the World Cup?",
+            "answers": [
+                "0",
+                "1",
+                "2",
+                "3"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "How many times have Spain won the World Cup?",
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "England have won the World Cup once. But in which year did they lift the trophy?",
+            "answers": [
+                "1962",
+                "1966",
+                "1970",
+                "1974"                    
+            ],
+            "correct": 2 
+        },
+        {
+            "question": "What kind of animal is featured on Leicester City's badge?",
+            "answers": [
+                "A cat",
+                "A dog",
+                "A fox",
+                "A wolf"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which Premier League team are famous for wearing black and white stripes?",
+            "answers": [
+                "Tottenham Hotspur",
+                "Crystal Palace",
+                "Newcastle United",
+                "Everton"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which English team are nicknamed 'The Canaries'?",
+            "answers": [
+                "Norwich City",
+                "Brighton",
+                "Bristol",
+                "Sunderland"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team play at St. James's Park?",
+            "answers": [
+                "Barnsley",
+                "Norwich City",
+                "Hull City",
+                "Newcastle United"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team play at Stamford Bridge?",
+            "answers": [
+                "Chelsea",
+                "Leicester",
+                "Manchester City",
+                "Barnsley"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which team play at Selhurst Park?",
+            "answers": [
+                "Swansea City",
+                "Leicester",
+                "Blackburn Rovers",
+                "Crystal Palace"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which team play at Molineux Stadium?",
+            "answers": [
+                "Everton",
+                "Wolverhampton",
+                "Blackburn Rovers",
+                "Middlesbrough"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which team play at Craven Cottage?",
+            "answers": [
+                "West Ham",
+                "Huddersfield",
+                "Fulham",
+                "Portsmouth"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which team play at Elland Road?",
+            "answers": [
+                "Leeds United",
+                "Everton",
+                "Ipswich Town",
+                "West Ham"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Spanish team play at Wanda Metropolitano?",
+            "answers": [
+                "Valladolid",
+                "Athletic Bilbao",
+                "Atletico Madrid",
+                "Levante"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which Spanish team play at San Mames?",
+            "answers": [
+                "Athletic Bilbao",
+                "Real Sociedad",
+                "Real Betis",
+                "Valladolid"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Spanish team play at Anoeta?",
+            "answers": [
+                "Sevilla",
+                "Granada",
+                "Real Betis",
+                "Real Sociedad"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which Spanish team play at Benito Villamarin?",
+            "answers": [
+                "Sevilla",
+                "Real Betis",
+                "Osasuna",
+                "Valladolid"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Spanish team play at Mestalla?",
+            "answers": [
+                "Real Sociedad",
+                "Valencia",
+                "Granada",
+                "Osasuna"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Spanish team play at Ramon Sanchez Pizjuan?",
+            "answers": [
+                "Sevilla",
+                "Celta Vigo",
+                "Valencia",
+                "Real Sociedad"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Spanish team play at Nuevo Los Carmenes?",
+            "answers": [
+                "Osasuna",
+                "Celta Vigo",
+                "Elche",
+                "Granada"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'Los Rojiblancos'?",
+            "answers": [
+                "Atletico Madrid",
+                "Leganes",
+                "Sevilla",
+                "Osasuna"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'Los Pepineros'?",
+            "answers": [
+                "Leganes",
+                "Real Valladolid",
+                "Villarreal",
+                "Espanyol"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'Los Albivioletas'?",
+            "answers": [
+                "Getafe",
+                "Espanyol",
+                "Levante",
+                "Real Valladolid"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'El Submarino Amarillo' (The Yellow Submarine)?",
+            "answers": [
+                "Getafe",
+                "Villarreal",
+                "Osasuna",
+                "Eibar"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'Los Rojillos' (The Reds)?",
+            "answers": [
+                "Mallorca",
+                "Osasuna",
+                "Sevilla",
+                "Levante"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Spanish team are nicknamed 'Blaugrana'?",
+            "answers": [
+                "Real Valladolid",
+                "Osasuna",
+                "Barcelona",
+                "Mallorca"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which English team are nicknamed 'The Gunners'?",
+            "answers": [
+                "Southampton",
+                "Aston Villa",
+                "Leicester",
+                "Arsenal"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which English team are nicknamed 'The Foxes'?",
+            "answers": [
+                "Leicester",
+                "Everton",
+                "Wolves",
+                "Brighton"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which English team are nicknamed 'The Saints'?",
+            "answers": [
+                "Arsenal",
+                "Crystal Palace",
+                "Aston Villa",
+                "Southampton"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which English team are nicknamed 'The Eagles'?",
+            "answers": [
+                "Newcastle Utd",
+                "Crystal Palace",
+                "Sheffield Utd",
+                "Tottenham"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which English team are nicknamed 'The Blues'?",
+            "answers": [
+                "Bournemouth",
+                "Everton",
+                "Chelsea",
+                "Crystal Palace"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which English team are nicknamed 'The Toffees'?",
+            "answers": [
+                "Everton",
+                "Aston Villa",
+                "Burnley",
+                "Norwich City"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which English team are nicknamed 'The Reds'?",
+            "answers": [
+                "Liverpool",
+                "Crystal Palace",
+                "Man Utd",
+                "Aston Villa"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which English team are nicknamed 'The Villans'?",
+            "answers": [
+                "Nottingham Forest",
+                "Burnley",
+                "Crystal Palace",
+                "Aston Villa"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which Italian team are nicknamed 'La Viola'?",
+            "answers": [
+                "Atalanta",
+                "Lecce",
+                "Bologna",
+                "Fiorentina"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which Italian team are nicknamed 'Biancocelesti'?",
+            "answers": [
+                "Fiorentina",
+                "Lazio",
+                "Juventus",
+                "Napoli"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Italian team are nicknamed 'Giallorossi'?",
+            "answers": [
+                "Sassuolo",
+                "Parma",
+                "Roma",
+                "Lazio"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which Italian team are nicknamed 'La Vecchia Signora'?",
+            "answers": [
+                "Juventus",
+                "Roma",
+                "Lazio",
+                "Milan"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which Italian team are nicknamed 'Neroverdi'?",
+            "answers": [
+                "Lecce",
+                "Sassuolo",
+                "Napoli",
+                "Juventus"                    
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which Italian team are nicknamed 'Azzurri'?",
+            "answers": [
+                "Parma",
+                "Inter",
+                "Napoli",
+                "Lecce"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which German team are nicknamed 'Die Konigsblauen' (The Royal Blue)?",
+            "answers": [
+                "Fortuna Dusseldorf",
+                "Union Berlin",
+                "Hertha Berlin",
+                "Schalke"                    
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which German team are nicknamed 'Die Alte Dame' (The Old Lady)?",
+            "answers": [
+                "Hertha Berlin",
+                "Bayer Leverkusen",
+                "Koln",
+                "Schalke"                    
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which German team are nicknamed 'Die Adler' (The Eagles)?",
+            "answers": [
+                "Stuttgart",
+                "Schalke",
+                "Eintracht Frankfurt",
+                "Hertha Berlin"                    
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Which German team are nicknamed 'Brazilians of Breisgau'?",
+            "answers": [
+                "Freiburg",
+                "Wolfsburg",
+                "Hoffenheim",
+                "Augsburg"                    
+            ],
+            "correct": 1
+        }
+                
+        
+    ]
+}
+
+
+
+
+
