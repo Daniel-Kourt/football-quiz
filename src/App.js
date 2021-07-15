@@ -27,8 +27,8 @@ function App() {
   }
 
   return (
-    <div className="App text-blue-500 text-xl font-bold mx-auto">
-      <div className="box bg-gray-100 rounded-xl shadow-lg w-4/5 max-w-xl">
+    <div className="App text-blue-500 text-xl font-bold mx-auto bg-gray-800">
+      <div className="box bg-gray-300 rounded-xl shadow-lg w-4/5 max-w-xl">
 
       {step === 'start' && 
         <Start startQuiz={startQuiz} /> 

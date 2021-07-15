@@ -6,7 +6,7 @@ const Finish = ({ restart, score }) => {
     const renderMessage = () => {
         let message;
         if (score > 8) {
-            message = "You're a football legend!";
+            message = "Your knowledge about football is amazing!";
         }
         else if (score > 4) {
             message = "You like football. Keep watching!";
@@ -20,11 +20,11 @@ const Finish = ({ restart, score }) => {
     return (
         <div className="px-4">
 
-            <h3 className="pb-8 text-3xl uppercase">
+            <h3 className="pb-8 text-4xl uppercase">
                 Quiz End
             </h3>
 
-            <p className="pb-4">
+            <p className="pb-4 text-2xl">
                 Correct Answers: {score}/{QUIZ_LENGTH}
             </p>
 

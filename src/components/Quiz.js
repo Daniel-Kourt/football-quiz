@@ -37,4 +37,4 @@ const Quiz = ({ selectedQuestions, finishQuiz }) => {
     )
 }
 
-export default Quiz;
+export default Quiz

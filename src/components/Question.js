@@ -38,17 +38,17 @@ const Question = ({ numberOfQuestion, handleUserAnswer }) => {
   
   const answerColor = (idx) => {
       if (!check.answered) {
-          return 'bg-blue-400 hover:bg-blue-500';
+          return 'bg-gray-800 hover:bg-gray-900';
       }
       else {
           if (idx === check.correctAnswer) {
-            return 'bg-green-400';
+            return 'bg-green-600';
           }
           else if (idx === check.userAnswer && idx !== check.correctAnswer) {
-            return 'bg-red-400';
+            return 'bg-red-600';
           }
           else {
-              return 'bg-blue-400';
+              return 'bg-gray-800';
           }
       }
   }
@@ -59,7 +59,9 @@ const Question = ({ numberOfQuestion, handleUserAnswer }) => {
     <div className="p-8 flex flex-col">
 
       <div className="py-2 sm:px-6 text-yellow-600">
-        <h3>{activeQuestion.question}</h3>
+        <h3>
+          {activeQuestion.question}
+        </h3>
       </div>
 
       <div>

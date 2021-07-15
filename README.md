@@ -1,6 +1,6 @@
 # Football Quiz
 
-*A simple project created with React and TailwindCss.*
+**A simple project created with React and TailwindCSS.**
 
 10 random questions about football
 
